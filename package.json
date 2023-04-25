@@ -1,0 +1,25 @@
+{
+  "name": "learn-node-the-hard-way",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarieAngeLeslie/get-hands-dirty-with-nodejs.git"
+  },
+  "author": "Ange leslie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarieAngeLeslie/get-hands-dirty-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/MarieAngeLeslie/get-hands-dirty-with-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
